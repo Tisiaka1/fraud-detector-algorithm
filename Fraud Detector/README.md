@@ -71,27 +71,7 @@ These files can be loaded in a separate script or service to perform real‑time
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Due to github file limit, I removed the data folder but i can be found here : https://drive.google.com/drive/folders/1g6-muFsHmyc0u041s07dhJcIM9wJSIML?usp=sharing
 
 
 
@@ -100,6 +80,7 @@ Learning Resources :
 
 Data validation : 
 https://builtin.com/data-science/data-validation - How to check and validate data 
+
 
 
 https://www.geeksforgeeks.org/pandas/dealing-with-rows-and-columns-in-pandas-dataframe/ - Rows and Columns With Pandas 
